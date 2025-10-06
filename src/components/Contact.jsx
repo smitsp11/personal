@@ -117,7 +117,7 @@ const Contact = () => {
             className="text-center mt-16 pt-8 border-t border-gray-800"
           >
             <p className="text-gray-500 text-sm">
-              © 2025 Smit Patel. Built with React, Tailwind CSS, and lots of ☕
+              © 2025 Smit Patel. Built with lots of ☕
             </p>
             <div className="flex justify-center mt-4 space-x-4">
               {[...Array(3)].map((_, i) => (
