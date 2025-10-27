@@ -1,6 +1,6 @@
 # Portfolio Website
 
-A modern portfolio website built with React, Vite, and Tailwind CSS.
+temp website built with React, Vite, and Tailwind CSS.
 
 ## Getting Started
 
