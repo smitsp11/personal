@@ -102,7 +102,7 @@ const Resume = () => {
 
   return (
     <section id="resume" className="relative py-20 px-4 bg-dark">
-      <FloatingParticles count={11} color="#076194" />
+      <FloatingParticles count={22} color="#076194" />
       <div className="max-w-7xl mx-auto relative z-10">
         <motion.div
           ref={ref}

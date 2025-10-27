@@ -72,7 +72,7 @@ const Contact = () => {
 
   return (
     <section id="contact" className="relative py-20 px-4 bg-dark">
-      <FloatingParticles count={11} color="#076194" />
+      <FloatingParticles count={22} color="#076194" />
       <div className="max-w-4xl mx-auto relative z-10">
         <motion.div
           ref={ref}

@@ -11,7 +11,7 @@ const About = () => {
 
   return (
     <section id="about" className="relative py-20 px-4 bg-dark">
-      <FloatingParticles count={13} color="#076194" />
+      <FloatingParticles count={26} color="#076194" />
       <div className="max-w-4xl mx-auto relative z-10">
         <motion.div
           ref={ref}

@@ -26,7 +26,7 @@ const Hero = () => {
       </div>
       
       {/* Floating Particles */}
-      <FloatingParticles count={26} color="#076194" />
+      <FloatingParticles count={52} color="#076194" />
       
       {/* Main Content */}
       <div className="relative z-10 text-center px-4 max-w-4xl mx-auto">
